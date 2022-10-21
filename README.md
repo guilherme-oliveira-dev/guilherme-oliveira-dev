@@ -1,6 +1,6 @@
 <img align="right" width="340" src="https://user-images.githubusercontent.com/116320626/197283271-99674b22-1a90-4c3c-9ff7-3b77cf71cb29.png" alt="about-me-img">
 
-# Oie devs 👋
+# Hello World! 👋
 **Olá pessoal, meu nome é Guilherme Oliveira e sou um \
 estudante de ADS do IFRO Campus Ji-Paraná.**
 
@@ -15,7 +15,7 @@ object **GUILHERME OLIVEIRA** {
 }
 ```
 
-## Minhas Redes Sociais:
+### 💬 Redes Sociais e Contatos:
 
 <div align="left">
 <a href="mailto:gui321guilherme@gmail.com
@@ -26,7 +26,7 @@ object **GUILHERME OLIVEIRA** {
 
 <div align="center">
 
-## Minhas Linguagens e Ferramentas:
+## 👨‍💻 Linguagens e Ferramentas:
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-icon"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio-icon"></code>
@@ -41,7 +41,7 @@ object **GUILHERME OLIVEIRA** {
 
 <div align="center">
 
-## Minhas Estatísticas do GitHub:
+## 📊 Minhas Estatísticas do GitHub:
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-dev&theme=dark&hide_langs_below=1" alt="top-langs-stats"></a>
