@@ -18,10 +18,11 @@ object **GUILHERME OLIVEIRA** {
 ### 💬 Redes Sociais e Contatos:
 
 <div align="left">
-<a href="mailto:gui321guilherme@gmail.com
-"><img width="40" src="https://user-images.githubusercontent.com/116320626/197085004-f6f3d3b4-205d-4539-bd2b-77b3d19c6824.png"></a>
 <a href="https://www.linkedin.com/in/guilherme-do-carmo-487978247/"><img width="40" src="https://user-images.githubusercontent.com/116320626/197084635-d16e2f8c-1976-4cc9-9b17-b99d99a81638.png"></a>
 <a href="https://www.instagram.com/guilherme_oliveira43/"><img width="40" src="https://user-images.githubusercontent.com/116320626/197085397-1bd2610f-106f-4041-a3e6-79aa6ef872d5.png"></a>
+<a href="mailto:gui321guilherme@gmail.com
+"><img width="40" src="https://user-images.githubusercontent.com/116320626/197085004-f6f3d3b4-205d-4539-bd2b-77b3d19c6824.png"></a>
+<a href="http://api.whatsapp.com/send?phone=556992546656"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="38" height="38" alt="WhatsApp-icon"></a>
 </div>
 
 <div align="center">
