@@ -28,6 +28,8 @@ object **GUILHERME OLIVEIRA** {
 
 ## 👨‍💻 Linguagens e Ferramentas:
 
+###
+
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-icon"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio-icon"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio-icon"></code>
@@ -37,7 +39,6 @@ object **GUILHERME OLIVEIRA** {
 </div>
 
 ###
-&#8196; 
 
 <div align="center">
 
