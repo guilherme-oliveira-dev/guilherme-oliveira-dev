@@ -49,12 +49,12 @@ object **GUILHERME OLIVEIRA** {
 
 ###
 
-<code><img height="30" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="github-icon"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio-icon"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio-icon"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp-icon"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r-language-icon"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-icon"></code>
+<code><img height="38" src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" alt="github-icon"></code>
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio-icon"></code>
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio-icon"></code>
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp-icon"></code>
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r-language-icon"></code>
+<code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-icon"></code>
 </div>
 
 ###
