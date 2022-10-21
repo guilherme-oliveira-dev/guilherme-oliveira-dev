@@ -1,3 +1,15 @@
+<!--
+❗ ➤ References used in this Repository:
+🔗 • https://github.com/kyechan99/capsule-render
+🔗 • https://github.com/antonkomarev/github-profile-views-counter
+🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
+🔗 • https://github.com/anuraghazra/github-readme-stats
+🔗 • https://profilepicturemaker.com
+🔗 • https://devicon.dev
+🔗 • https://emoji.gg
+🔗 • https://getemoji.com
+-->
+
 <img align="left" src="https://komarev.com/ghpvc/?username=guilherme-oliveira-dev&color=d23323" alt="Juletopi-profileviews">
 &#8196;
 <div>
