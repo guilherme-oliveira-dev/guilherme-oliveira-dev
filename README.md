@@ -1,4 +1,4 @@
-<img align="right" width="380" src="https://user-images.githubusercontent.com/116320626/197283271-99674b22-1a90-4c3c-9ff7-3b77cf71cb29.png" alt="about-me-img">
+<img align="right" width="340" src="https://user-images.githubusercontent.com/116320626/197283271-99674b22-1a90-4c3c-9ff7-3b77cf71cb29.png" alt="about-me-img">
 
 # Oie devs 👋
 **Olá pessoal, meu nome é Guilherme Oliveira e sou um \
