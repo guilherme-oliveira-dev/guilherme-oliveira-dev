@@ -46,8 +46,8 @@ object **GUILHERME OLIVEIRA** {
 ## 📊 Minhas Estatísticas do GitHub:
 
 <a href="https://github.com/guilherme-oliveira-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-dev&theme=dark&hide_langs_below=1" alt="top-langs-stats"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-dev&theme=codeSTACKr&hide_langs_below=1" alt="top-langs-stats"></a>
 
 <a href="https://github.com/guilherme-oliveira-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-dev&show_icons=true&theme=dark&line_height=27" alt="github-stats"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-dev&show_icons=true&theme=codeSTACKr&line_height=27" alt="github-stats"></a>
 </div>
