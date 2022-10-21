@@ -1,3 +1,7 @@
+<img align="left" src="https://komarev.com/ghpvc/?username=guilherme-oliveira-dev&color=bf4f43" alt="Juletopi-profileviews">
+&#8196;
+<div>
+
 <img align="right" width="340" src="https://user-images.githubusercontent.com/116320626/197283271-99674b22-1a90-4c3c-9ff7-3b77cf71cb29.png" alt="guilerme-img">
 
 # Hello World! 👋
@@ -27,7 +31,9 @@ object **GUILHERME OLIVEIRA** {
 
 <div align="center">
 
-## 👨‍💻 Linguagens e Ferramentas:
+### 👨‍💻 Linguagens e Ferramentas:
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=cf1300&height=3&section=header&%20render">
 
 ###
 
@@ -40,14 +46,20 @@ object **GUILHERME OLIVEIRA** {
 </div>
 
 ###
+&#8196; 
 
 <div align="center">
 
-## 📊 Minhas Estatísticas do GitHub:
+### 📊 Minhas Estatísticas do GitHub:
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=cf1300&height=3&section=header&%20render">
 
 <a href="https://github.com/guilherme-oliveira-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-dev&theme=codeSTACKr&hide_langs_below=1" alt="top-langs-stats"></a>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-dev&title_color=cf1300&icon_color=cf1300&border_color=0e1118&bg_color=0e1118&theme=codeSTACKr&hide_langs_below=1" alt="top-langs-stats"></a>
 <a href="https://github.com/guilherme-oliveira-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-dev&show_icons=true&theme=codeSTACKr&line_height=27" alt="github-stats"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-dev&include_all_commits=true&title_color=cf1300&icon_color=cf1300&border_color=0d1017&bg_color=0e1118&show_icons=true&theme=codeSTACKr&line_height=27" alt="github-stats"></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/guilherme-oliveira-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-oliveira-dev&theme=dark&ring=cf1300&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
 </div>
