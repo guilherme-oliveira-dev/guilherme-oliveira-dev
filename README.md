@@ -1,4 +1,4 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=guilherme-oliveira-dev&color=bf4f43" alt="Juletopi-profileviews">
+<img align="left" src="https://komarev.com/ghpvc/?username=guilherme-oliveira-dev&color=d23323" alt="Juletopi-profileviews">
 &#8196;
 <div>
 
