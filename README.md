@@ -1,6 +1,6 @@
 # Oie devs 👋
 
-Olá pessoal, meu nome é Guilherme Oliveira e sou um estudante de ADS do IFRO Campus Ji-Paraná.
+**Olá pessoal, meu nome é Guilherme Oliveira e sou um estudante de ADS do IFRO Campus Ji-Paraná.**
 
 ## <img width="35" src="https://raw.github.com/elizarov/elizarov/master/about.png" alt="about-me-img"> Sobre Mim:
 
