@@ -69,7 +69,7 @@ object **GUILHERME OLIVEIRA** {
 <a href="https://github.com/guilherme-oliveira-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-oliveira-dev&title_color=da2412&icon_color=da2412&border_color=0e1118&bg_color=0e1118&theme=codeSTACKr&hide_langs_below=1" alt="top-langs-stats"></a>
 <a href="https://github.com/guilherme-oliveira-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-dev&include_all_commits=true&title_color=da2412&icon_color=cf1300&border_color=0d1017&bg_color=0e1118&show_icons=true&theme=codeSTACKr&line_height=27" alt="github-stats"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-oliveira-dev&include_all_commits=true&title_color=da2412&icon_color=da2412&border_color=0d1017&bg_color=0e1118&show_icons=true&theme=codeSTACKr&line_height=27" alt="github-stats"></a>
 </div>
 
 <div align="center">
