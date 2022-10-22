@@ -1,5 +1,6 @@
 <!--
 ❗ ➤ References used in this Repository:
+🔗 • https://github.com/juletopi/juletopi
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/antonkomarev/github-profile-views-counter
 🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
