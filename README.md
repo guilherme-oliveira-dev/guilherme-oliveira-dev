@@ -28,7 +28,7 @@ object **GUILHERME OLIVEIRA** {
  val acknowledgements = "ÁREA DE CONHECIMENTO"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("R", "CSharp", "Java")
+ val languages = listOf("R", "CSharp", "JavaScript")
 }
 ```
 
